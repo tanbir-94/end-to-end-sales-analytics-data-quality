@@ -161,7 +161,6 @@ Raw, cleaned, and KPI-eligible datasets are not publicly shared to protect origi
 - SQL ensures logic accuracy and independent KPI verification
 - Power BI delivers clean, governed, KPI-ready dashboards
 
-This project reflects how a real data analyst works in production environments â€” not just how charts are created.
 
 ---
 
@@ -172,3 +171,4 @@ This project reflects how a real data analyst works in production environments â
 - Raw sample dataset (structure reference only)
 - concise project summary is also available in PDF format.
 - README.md
+
