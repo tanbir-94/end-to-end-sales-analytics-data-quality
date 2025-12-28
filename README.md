@@ -170,4 +170,5 @@ This project reflects how a real data analyst works in production environments â
 - Dashboard screenshots (Excel & Power BI)
 - SQL validation queries
 - Raw sample dataset (structure reference only)
+- concise project summary is also available in PDF format.
 - README.md
